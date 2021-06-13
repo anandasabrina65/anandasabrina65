@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b3b3ff
+}
+
+#biodata {
+  background-color: #80ff80
+}
+
+#pengalaman {
+  padding-top: 3rem;
+  background-color: #aaff80
+}
+
+section {
+  padding-top: 6rem;
+}
